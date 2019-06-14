@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("TcpChatTool")]
+[assembly: AssemblyTitle("ServeApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TcpChatTool")]
+[assembly: AssemblyProduct("ServeApp")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("7683b23e-d3af-4ed0-9c4e-dce1eb5cd0ba")]
+[assembly: Guid("4b545db6-d087-4bb5-9ce9-7530d9d490a6")]
 
 // 程序集的版本信息由下列四个值组成: 
 //

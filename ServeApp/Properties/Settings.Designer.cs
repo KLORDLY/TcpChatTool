@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TcpChatTool.Properties
+namespace ServeApp.Properties
 {
 
 
